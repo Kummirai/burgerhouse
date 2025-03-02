@@ -30,7 +30,7 @@ Burger House is a modern, responsive website designed for a fictional burger res
 To run this project locally:
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/burger-house.git
+   git clone https://github.com/yourusername/burgerhouse.git
    ```
 2. Navigate to the project directory:
    ```sh
